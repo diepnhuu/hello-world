@@ -3,8 +3,8 @@
 ## Change Directorg (cd)
 c: / d:
 - **clone** 1 project ve may cua minh: git clone ... .git
-- mkdir ten-folder
-- cd ten-folder
+- *mkdir* ten-folder
+- ***cd*** ten-folder
 - touch ten-file (nho co dinh dang vd .md .txt)
 - ls de coi co bao nhieu item..
 - ctrl + s: save truoc khi git add .

@@ -1,6 +1,8 @@
-# Change Directorg (cd)
+# GIT TUTORIALS
+
+## Change Directorg (cd)
 c: / d:
-- clone 1 project ve may cua minh: git clone ... .git
+- **clone** 1 project ve may cua minh: git clone ... .git
 - mkdir ten-folder
 - cd ten-folder
 - touch ten-file (nho co dinh dang vd .md .txt)

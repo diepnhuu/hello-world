@@ -3,4 +3,4 @@ c: / d:
 - mkdir ten-folder
 - cd ten-folder
 - touch ten-file (nho co dinh dang vd .md .txt)
-
+- ls de coi co bao nhieu item..

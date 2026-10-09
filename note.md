@@ -13,3 +13,5 @@ c: / d:
 - git push
 - keo tien do ve git pull
 
+---
+
